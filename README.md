@@ -2,7 +2,7 @@ Koneksi Database Mysql Ke PHP Judul "PUSAT SPARE PART ONLINE" ada 4 tabel
 
 Design Tabel 
 
-![tabel_relasi](https://user-images.githubusercontent.com/81373389/120889160-0a5f3280-c626-11eb-817b-7239727eda85.JPG)
+
 
 Design home
 ![home](https://user-images.githubusercontent.com/81373389/120889201-31b5ff80-c626-11eb-8ca4-61105cbcc40d.JPG)
